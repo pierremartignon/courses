@@ -1,11 +1,13 @@
-= Cypher Fundamentals 🇨🇳
+= Cypher Fundamentals
+:lang: cn
 :status: draft
 :caption: Learn Cypher in 60 minutes
 :usecase: movies
 :categories: cn:2
+:next: cn-modeling-fundamentals
 :duration: 1 hour
 :video: https://www.youtube.com/embed/Se_Zwiew90Q
-
+:translations: cypher-fundamentals,jp-cypher-fundamentals
 
 //https://youtu.be/Se_Zwiew90Q
 
