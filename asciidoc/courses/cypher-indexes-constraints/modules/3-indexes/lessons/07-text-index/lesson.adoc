@@ -15,8 +15,8 @@ A TEXT index can be used for the same types of tests on strings that are perform
 
 * Equality checks `=`
 * Range comparisons `>`,`+>=+`,`<`, `+<=+`
-* List membership `IN`
-* String comparisons `STARTS WITH`, `ENDS WITH`, `CONTAINS`
+//* List membership `IN`
+* String comparisons  `ENDS WITH`, `CONTAINS`
 
 [NOTE]
 --
@@ -28,7 +28,7 @@ In all other cases, you should use a b-tree index.
 
 == Syntax for creating a TEXT index for node property
 
-Here is the syntax for creating a b-tree index for a single property of a node:
+Here is the syntax for creating a TEXT index for a single property of a node:
 
 [source,cypher,role=nocopy noplay]
 ----
