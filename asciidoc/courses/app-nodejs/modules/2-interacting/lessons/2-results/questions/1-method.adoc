@@ -16,5 +16,5 @@ If you are not subscribing to the record stream, you will only be able to access
 .Solution
 ====
 Results are only available once the Driver has received the final record.
-This can provide a negative experience for users waiting for the results of a long running query.
+This can provide a negative experience for users waiting for the results of a long-running query.
 ====
