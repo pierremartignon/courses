@@ -1,2 +1,2 @@
-MATCH (p:Person {name: "Emil Eifrem"})
-DETACH DELETE p
+MATCH (a:Actor {name: "Emil Eifrem"})
+DETACH DELETE a
