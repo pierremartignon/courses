@@ -1,1 +1,1 @@
-MATCH (:Person {name: "Emil Eifrem"}) RETURN count(*) = 0 AS outcome
+MATCH (:Actor {name: "Emil Eifrem"}) RETURN count(*) = 0 AS outcome
